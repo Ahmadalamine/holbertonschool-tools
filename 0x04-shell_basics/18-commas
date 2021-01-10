@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -a | sort | tr '\n' ', '
+ls -amp --group-directories-first
