@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e `expr 128 + $TEST`
+echo -e `expr 128 + $TRUEKNOWLEDGE`
